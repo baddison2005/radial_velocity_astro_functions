@@ -20,7 +20,7 @@ In general, these functions will require at minimum:
 
 ### Installing
 
-* Download the functions and put them in a easy to access directory.
+* Download the functions and put them in an easy to access directory.
 
 ### Executing program
 
